@@ -1,0 +1,522 @@
+/* new changes for version 2.3 testing */
+
+.title-bar {
+  font: 1.5em sans-serif;
+}
+
+.title-bar h4 {
+  height: 30px;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+.title-bar p {
+  /* font: 1 sans-serif; */
+  padding-left: 20px;
+}
+
+.fundraiser-apikey-div {
+  /* display: flex;
+    flex-direction: column; */
+  margin: 30px;
+}
+
+.fundraiser-apikey-div label {
+  font: 1.2em sans-serif;
+  font-weight: 700;
+}
+
+.fundraiser-apikey-div input {
+  margin-top: 10px;
+  width: 400px;  
+}
+
+.account-setup-option{
+  display: flex; 
+  flex-direction: row; 
+  padding-left: 20px; 
+  margin-top: 20px
+}
+
+.apikey-account-owner-text{
+  display: flex
+}
+
+.apikey-account-owner-email{
+  font-weight: bold; 
+  color: gray; 
+  margin-left: 5px;
+}
+
+/* Style to give a visual indication that the SVG is clickable */
+.clickable-container {
+  position: relative;
+  display: flex;
+  flex-direction: column; /* Display items vertically */
+  justify-content: space-between;
+  align-items: flex-start; /* Align items to the start (left) */
+  background-color: #F5F5F5;
+
+}
+
+.clickable-container span {
+  margin-top: 11px;
+  margin-left: 12px;
+  margin-right: 12px;
+
+}
+
+.clickable-svg {
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+  margin-top: 10px; /* Add margin to move the SVG to the bottom */
+  align-self: flex-end; /* Align the SVG to the right */
+  position: relative;
+
+}
+
+.clickable-svg-img{
+  margin-right: 16px;
+}
+
+
+.tooltip {
+  visibility: hidden;
+  width: 120px;
+  background-color: rgba(77, 77, 77, 0.884);
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  bottom: -40px; /* Adjust the distance from the image */
+  left: 50%;
+  transform: translateX(-50%); /* Center the tooltip horizontally */
+}
+
+/* Show the tooltip on hover */
+.clickable-svg:hover .tooltip {
+  visibility: visible;
+}
+
+
+#snackbar {
+  visibility: hidden;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 2px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  left: 50%;
+  bottom: 30px;
+  font-size: 17px;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+.widget-list{
+  margin-left: 4px;
+  margin-right: 24px;
+}
+
+.widget-list-table{
+  /* overflow-x: auto; */
+  height: 100%;
+  max-width: 100%; 
+}
+
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+@media (max-width: 480px) {
+  .fundraiser-apikey-div input {
+    width: 352px;
+  }
+
+  .account-setup-option{
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .no-account-div{
+    margin-top: 10px;
+  }
+
+  .apikey-account-owner-text{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .apikey-account-owner-email{
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .apikey-account-owner-text{
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .clickable-container {
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden; /* Hide overflowing text */
+    height: 80px;
+    width: 310px;
+  }
+  
+  .clickable-container span {
+    display: inline-block; /* or inline */
+    
+    width: 290px;
+    text-overflow: ellipsis; 
+    overflow: hidden; /* Hide overflowing text within the span */
+  }
+  .widget-list-table{
+    overflow-x: auto;
+  }
+}
+
+
+.registration-div {
+  margin: 30px;
+}
+
+/* .save-btn {
+  background-color: rgb(74, 116, 150);
+  width: 200px;
+  height: 40px;
+  font-size: 1.3em;
+  margin-left: 30px;
+  color: white;
+}
+
+.back-btn {
+  width: 70px;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: #395870;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+} */
+
+.data-list-table {
+  border-collapse: collapse;
+  color: #4a4a4d;
+  width: 100%;
+  background-color: white;
+  margin: auto;  
+}
+
+.data-list-table th{
+  text-align: left;
+}
+
+.data-list-table th,
+.data-list-table td {
+  border-bottom: 1px solid #cecfd5;
+  padding: 10px 15px;
+  vertical-align: top;
+}
+
+.data-list-table thead {
+  /* background: #395870; */
+  /* background: linear-gradient(#49708f, #293f50); */
+  /* color: #fff; */
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.widgets-list-style,
+.widgets-list-plugin-style,
+.widgets-list-shortcode {
+  text-align: center;
+  font-size: 14px;
+}
+
+.widgets-list-item-btn {
+  width: 60px !important;
+  text-align: left;
+  font-size: 14px;
+}
+
+.widgets-list-fundraiser-name{
+  text-align: left;
+}
+
+.widgets-list-fundraiser-name-div{
+  width: 250px;
+}
+
+.plugin-style-list-thumbnail,
+.plugin-style-list-id,
+.plugin-style-list-name,
+.plugin-style-list-item-btn {
+  text-align: center;
+  font-size: 14px;
+}
+
+.widgets-list-item-edit-btn,
+.widgets-list-item-remove-btn {
+  background: white;
+  color: #49708f;
+  /* width: 60px; */
+  height: 30px;
+  font-size: 14px;
+  border: 0px;
+  cursor: pointer;
+}
+
+.widgets-list-item-edit-btn{
+  text-align: left;
+}
+
+button:focus {
+  outline: 0 !important;
+}
+
+
+/* .add-new-fundraiser {
+  width: 160px;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: #395870;
+  color: white;
+  float: right;
+  margin-top: 20px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  cursor: pointer;
+} */
+
+.btn-style {
+  width: auto;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: #2a81c3;
+  color: white;
+  float: right;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  border: none;
+}
+
+.btn-style-refresh {
+  width: auto;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: #2a81c3;
+  color: white;
+  float: right;
+  margin-top: 20px;
+  /* margin-right: 50px; */
+  margin-bottom: 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  border: none;
+  margin-right: 20px;
+}
+
+.white-svg {
+  /* fill: white; */
+  filter: brightness(0) invert(1) grayscale(1);
+}
+
+.image-container {
+  width: 100%;
+  height: 100%;
+  background: url('https://whydonate.com/cdn-cgi/imagedelivery/_0vgnXOEIHPwLg2E52a7gg/shared/whydonate_icon/public') 50% 50% no-repeat;
+  animation: rotateAnimation 1s linear infinite;
+}
+
+@keyframes rotateAnimation {
+  from {
+    transform: rotateY(45deg);
+  }
+  to {
+    transform: rotateY(225deg);
+  }
+}
+
+.widget-id-column {
+  display: none;
+}
+
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+
+.action-button-container {
+  display: flex;
+  width: 90px !important;
+}
+
+.action-button-container button {
+  margin-right: 0px; /* Optional: Add spacing between buttons */
+}
+
+.setup-container{
+  margin-right: 10px;
+}
+
+#adminmenu #toplevel_page_myplugin .wp-menu-image img {
+  width: 16px !important;
+  height: auto !important;
+}
+
+.widgets-html-shortcode-span{
+  margin-left: 16px !important;
+  margin-right: 16px !important;
+}
+
+.api-key-container {
+  display: flex;
+  align-items: center;
+  height: 54px;
+  max-width: 430px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.api-key-container input {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  vertical-align: middle; 
+  margin-bottom: 10px;
+  outline: none;
+  border: none;
+}
+
+.api-key-container span {
+  cursor: pointer; 
+}
+
+.api-key-container input:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+.api-key-container img {
+  /* margin-left: 10px; */
+  width: 24px; 
+  height: auto;
+  vertical-align: middle; 
+}
+
+.tooltip-api-key {
+  visibility: hidden;
+  width: auto;
+  background-color: rgba(77, 77, 77, 0.884);
+  color: #fff;
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  top: calc(100% + 5px); /* Position just below the span */
+  left: 50%;
+  width: 140px;
+  transform: translateX(-50%); /* Center the tooltip horizontally */
+}
+
+.tooltip-api-key.active {
+  visibility: visible;
+}
+
+.widget-list-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* This will push the items to the edges */
+  align-items: center;
+}
+
+@media (max-width: 890px)  {
+  .widget-list-header {
+    display: flex;
+    flex-direction: column; /* Change to column direction */
+    align-items: flex-start; /* Align items to the start */
+  }
+  
+  .widget-list-heading {
+    /* No changes needed */
+  }
+  
+  .widget-list-button {
+    margin-top: -20px; /* Add margin-top to create a gap between heading and button */
+  }
+  
+}
+
+.whydonate-account-instruction ul{
+  list-style-type: disc !important;
+  margin-left: 38px;
+}
+
+.whydonate-account-instruction ol li{
+  font-size: 13px !important;
+
+}
+
+@media (max-width: 600px)  {
+  .preview-card {
+    width: 400px;
+  }
+}
+
+.btn-style-text {
+  margin-left: 10px;
+  margin-right: 10px;
+}

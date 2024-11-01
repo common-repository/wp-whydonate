@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: whydonate-v2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 09:10+0000\n"
+"PO-Revision-Date: 2024-08-12 13:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian\n"
+"Language: bg-BG\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: whydonate-v2"
+
+#: whydonate-v2.php:197
+msgid ""
+"Thanks for updating. If you see any database error messages, please ignore "
+"them and refresh the page."
+msgstr ""
+"Благодаря за актуализацията. Ако видите съобщение за грешка в базата данни, "
+"моля, игнорирайте го и освежете страницата."
+
+#: whydonate-v2.php:382 admin/admin-menu.php:28
+#: admin/setup/wdplugin-settings-display-page.php:17
+#: admin/setup/wdplugin-settings-display-page.php:118
+msgid "Account Setup"
+msgstr "Настройка На Акаунта"
+
+#: admin/admin-menu.php:58 admin/setup/wdplugin-widget-list.php:145
+msgid "Widgets"
+msgstr "Джаджи"
+
+#: admin/setup/wdplugin-widget-list.php:144
+msgid "Embed donation Widget to your website"
+msgstr "Вградете widget за дарения на вашия уебсайт"
+
+#: admin/setup/wdplugin-widget-list.php:151
+msgid "Create New Widget"
+msgstr "Създайте нов Виджет"
+
+#: admin/setup/wdplugin-widget-list.php:156
+msgid "Refresh"
+msgstr "Освежи"
+
+#: admin/setup/wdplugin-widget-list.php:165
+msgid "Widget ID"
+msgstr "ID Джаджа"
+
+#: admin/setup/wdplugin-widget-list.php:168
+msgid "Style"
+msgstr "Стил"
+
+#: admin/setup/wdplugin-widget-list.php:171
+msgid "Fundraisers"
+msgstr "Фондосъбиратели"
+
+#: admin/setup/wdplugin-widget-list.php:174
+msgid "Shortcode"
+msgstr "Кратък код"
+
+#: admin/setup/wdplugin-widget-list.php:177
+msgid "HTML Code"
+msgstr "HTML Код"
+
+#: admin/setup/wdplugin-widget-list.php:180
+msgid "Action"
+msgstr "Действие"
+
+#: admin/setup/wdplugin-widget-list.php:207
+msgid "It seems you haven’t created any widgets yet."
+msgstr "Изглежда не сте създали никакви джаджи досега."
+
+#: admin/setup/wdplugin-widget-list.php:212
+msgid "Add Widget"
+msgstr "Добавяне На Виджет"
+
+#: admin/setup/wdplugin-widget-list.php:622
+msgid "Copy the code"
+msgstr "Копиране на кода"
+
+#: admin/setup/wdplugin-widget-list.php:629
+msgid ""
+"Please create a widget in the widget portal by clicking on the edit button"
+msgstr ""
+"Моля, създайте джаджа в портала за джаджи, като кликнете на бутона за "
+"редактиране"
+
+#: admin/setup/wdplugin-widget-list.php:636
+msgid "Copy shortcode"
+msgstr "Копиране на кратък код"
+
+#: admin/setup/wdplugin-widget-list.php:643
+#: admin/setup/wdplugin-widget-list.php:650
+msgid "Edit"
+msgstr "Редактиране"
+
+#: admin/setup/wdplugin-widget-list.php:647
+msgid "Remove"
+msgstr "Премахни"
+
+#: admin/setup/wdplugin-widget-list.php:670
+msgid "Copied to Clipboard"
+msgstr "Копирано в Клипборда"
+
+#: admin/setup/wdplugin-settings-display-page.php:11
+#: admin/setup/wdplugin-settings-display-page.php:195
+msgid "Your plugin is now connected to this account: "
+msgstr "Вашият плъгин е свързан с този акаунт:"
+
+#: admin/setup/wdplugin-settings-display-page.php:21
+msgid "How to use this plugin"
+msgstr "Как да използвате този плъгин"
+
+#: admin/setup/wdplugin-settings-display-page.php:28
+#: admin/setup/wdplugin-settings-display-page.php:47
+msgid "1. Connect the plugin to your WhyDonate account"
+msgstr "1. Свържете приставката с вашия акаунт в WhyDonate"
+
+#: admin/setup/wdplugin-settings-display-page.php:32
+msgid "For WhyDonate members: "
+msgstr "За членове на WhyDonate:"
+
+#: admin/setup/wdplugin-settings-display-page.php:34
+msgid ""
+"Open your <a href='https://www.whydonate.eu/profile' style='text-decoration:"
+"none' target='blank'> WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"Отворете вашия <a href='https://whydonate.com/bg/account/login' style='text-"
+"decoration:none' target='blank'> Профил WhyDonate</a> и кликнете върху "
+"менюто API Key. Създайте нов API Key и го копирайте в края на тази страница."
+
+#: admin/setup/wdplugin-settings-display-page.php:39
+msgid "No Whydonate account yet? "
+msgstr "Още нямате акаунт в WhyDonate:"
+
+#: admin/setup/wdplugin-settings-display-page.php:41
+msgid ""
+"<a href=\"https://www.whydonate.eu/registration/en\" style=\"text-decoration:"
+"none\" target=\"blank\">Register for free at WhyDonate</a>. Open your <a "
+"href=\"https://www.whydonate.eu/registration/eu\" style=\"text-decoration:"
+"none\" target=\"blank\">WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"<a href=\"https://whydonate.com/bg/account/register\" style=\"text-"
+"decoration:none\" target=\"blank\">Регистрирайте се безплатно на "
+"WhyDonate</a>. Отворете вашето <a href=\"https://whydonate."
+"com/de/account/register\" style=\"text-decoration:none\" target=\"blank\">"
+"Профил WhyDonate</a> и кликнете върху менюто API Key. Създайте нов API Key и "
+"го копирайте в долната част на тази страница."
+
+#: admin/setup/wdplugin-settings-display-page.php:56
+msgid "For Existing WhyDonate Members: "
+msgstr "За съществуващи членове на WhyDonate:"
+
+#: admin/setup/wdplugin-settings-display-page.php:59
+msgid ""
+"Go to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and log in to your account."
+msgstr ""
+"Отидете на <a href='https://whydonate.com/bg/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> и влезте в профила си."
+
+#: admin/setup/wdplugin-settings-display-page.php:60
+msgid "Access the API Key from the side menu of your profile."
+msgstr "Достъпете API Ключа от страничното меню на профила си."
+
+#: admin/setup/wdplugin-settings-display-page.php:61
+#: admin/setup/wdplugin-settings-display-page.php:74
+msgid ""
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Генерирайте API Ключ и го копирайте и поставете в указаното поле в долната "
+"част на тази страница."
+
+#: admin/setup/wdplugin-settings-display-page.php:69
+msgid "New to WhyDonate? Register for Free: "
+msgstr "Нов сте в WhyDonate? Регистрирайте се безплатно:"
+
+#: admin/setup/wdplugin-settings-display-page.php:72
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Регистрирайте се за безплатен акаунт на <a href='https://whydonate.com/bg/' "
+"style='text-decoration:none' target='blank'>whydonate.com</a>."
+
+#: admin/setup/wdplugin-settings-display-page.php:73
+msgid ""
+"Navigate to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and access the API Key from the side menu "
+"of your profile."
+msgstr ""
+"Отидете на <a href='https://whydonate.com/bg/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> и достъпете API ключа от страничното меню "
+"на профила си."
+
+#: admin/setup/wdplugin-settings-display-page.php:84
+msgid "2. Create a Widget"
+msgstr "2. Създайте виджет"
+
+#: admin/setup/wdplugin-settings-display-page.php:89
+msgid ""
+"You will be redirected to <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Ще бъдете пренасочени към <a href='https://whydonate.com/bg/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+
+#: admin/setup/wdplugin-settings-display-page.php:90
+msgid ""
+"Under the 'Style Widget' section, either create a new fundraiser or select "
+"an existing one from your fundraiser list."
+msgstr ""
+"В секцията 'Стил на джаджа', създайте нова кампания или изберете "
+"съществуваща от списъка с кампании."
+
+#: admin/setup/wdplugin-settings-display-page.php:91
+msgid ""
+"Customise the style according to your preferences and save it as your widget"
+msgstr ""
+"Персонализирайте стила според вашите предпочитания и го запазете като ваш "
+"widget"
+
+#: admin/setup/wdplugin-settings-display-page.php:99
+msgid "3. Add the widget to your website"
+msgstr "3. Добавете виджета на вашия уебсайт"
+
+#: admin/setup/wdplugin-settings-display-page.php:104
+msgid "Copy the HTML code of the widget you wish to place."
+msgstr "Копирайте HTML кода на виджета, който желаете да поставите."
+
+#: admin/setup/wdplugin-settings-display-page.php:105
+msgid "Paste the code directly onto your webpage."
+msgstr "Поставете кода директно на уеб страницата си."
+
+#: admin/setup/wdplugin-settings-display-page.php:127
+msgid "I have a WhyDonate account"
+msgstr "Имам акаунт в WhyDonate"
+
+#: admin/setup/wdplugin-settings-display-page.php:132
+msgid "I don't have a WhyDonate account"
+msgstr "Не разполагам с акаунт в WhyDonate"
+
+#: admin/setup/wdplugin-settings-display-page.php:142
+msgid "Api Key"
+msgstr "API Ключ"
+
+#: admin/setup/wdplugin-settings-display-page.php:155
+#: admin/setup/wdplugin-settings-display-page.php:160
+msgid "Click to show API Key"
+msgstr "Щракнете, за да покажете API Ключа"
+
+#: admin/setup/wdplugin-settings-display-page.php:161
+msgid "Click to hide API Key"
+msgstr "Щракнете, за да скриете API Ключа"
+
+#: admin/setup/wdplugin-settings-display-page.php:164
+msgid "Show your API Key"
+msgstr "Покажете вашия API Ключ"
+
+#: admin/setup/wdplugin-settings-display-page.php:166
+msgid "Enter your api-key."
+msgstr "Въведете вашия API ключ."
+
+#: admin/setup/wdplugin-settings-display-page.php:169
+msgid "Your API Key is not valid. We failed to connect the plugin."
+msgstr "Вашият API Ключ не е валиден. Не успяхме да свържем плъгина."
+
+#: admin/setup/wdplugin-settings-display-page.php:172
+msgid "Updating the API Key..."
+msgstr "Актуализиране на API Ключа..."
+
+#: admin/setup/wdplugin-settings-display-page.php:175
+msgid "Update success."
+msgstr "Актуализацията е успешна."
+
+#: admin/setup/wdplugin-settings-display-page.php:209
+msgid ""
+"Open your <a href=\"https://whydonate.eu/profile\" style=\"text-decoration:"
+"none\" target=\"blank\"> WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page. "
+msgstr ""
+"Отворете вашия <a href='https://whydonate.com/bg/account/login' style='text-"
+"decoration:none' target='blank'> Профил WhyDonate</a> и кликнете върху "
+"менюто API Key. Създайте нов API Key и го копирайте в края на тази страница."
+
+#: admin/setup/wdplugin-settings-display-page.php:216
+msgid "Save"
+msgstr "Запази"
+
+#: admin/setup/wdplugin-settings-display-page.php:226
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>. Navigate to <a "
+"href='https://whydonate.com/' style='text-decoration:none' target='blank'>"
+"whydonate.com</a> and access the API Key from the side menu of your profile. "
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Регистрирайте се за безплатен акаунт на <a href='https://whydonate.com/bg/' "
+"style='text-decoration:none' target='blank'>whydonate.com</a>. Отидете на <a "
+"href='https://whydonate.com/' style='text-decoration:none' target='blank'>"
+"whydonate.com</a> и достъпете API ключа от страничното меню на профила си. "
+"Генерирайте API ключ и го копирайте и поставете в определеното поле в "
+"долната част на тази страница."
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "Whydonate"
+msgstr "WhyDonate"
+
+#. Description of the plugin
+msgid ""
+"Donatie button voor je eigen website. Zamel geld in via iDeal, Creditcard, "
+"PayPal, VISA, Sofort en Bancontact. Binnen een paar minuten opgezet en "
+"veilig!"
+msgstr ""
+"Бутон за дарение за вашия собствен уебсайт. Събирайте пари чрез iDeal, "
+"кредитна карта, PayPal, VISA, Sofort и Bancontact. Настройте го за няколко "
+"минути и е сигурно!"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-whydonate/"
+msgstr "https://wordpress.org/plugins/wp-whydonate/"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/whydonate/"
+msgstr "https://profiles.wordpress.org/whydonate/"

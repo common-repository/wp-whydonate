@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #32bf55;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m408.73,23.8H103.27c-48.21,0-87.27,37.8-87.27,84.44v295.5c0,41.97,31.65,76.8,73.12,83.35l143.82,1.1h175.78c48.19,0,87.27-37.82,87.27-84.45V108.24c0-46.64-39.08-84.44-87.27-84.44Zm-152.71,390.72c-89.89,0-162.75-69.57-162.78-155.36h325.52c-.01,85.79-72.9,155.36-162.74,155.36Z"/>
+</svg>

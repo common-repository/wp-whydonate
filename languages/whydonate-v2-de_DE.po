@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Whydonate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-30 09:33+0000\n"
+"PO-Revision-Date: 2024-05-03 08:13+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Domain: whydonate-v2"
+
+#: admin/setup/wdplugin-settings-display-page.php:28
+#: admin/setup/wdplugin-settings-display-page.php:47
+msgid "1. Connect the plugin to your Whydonate account"
+msgstr "1. Verbinden Sie das Plugin mit Ihrem WhyDonate-Konto"
+
+#: admin/setup/wdplugin-settings-display-page.php:84
+msgid "2. Create a Widget"
+msgstr "2. Erstellen ein Widget"
+
+#: admin/setup/wdplugin-settings-display-page.php:99
+msgid "3. Add the widget to your Website"
+msgstr "3. Fügen Sie das Widget Ihrer Website hinzu"
+
+#: admin/setup/wdplugin-settings-display-page.php:41
+msgid ""
+"<a href=\"https://www.whydonate.eu/registration/en\" style=\"text-decoration:"
+"none\" target=\"blank\">Register for free at Whydonate</a>. Open your <a "
+"href=\"https://www.whydonate.eu/registration/eu\" style=\"text-decoration:"
+"none\" target=\"blank\">Whydonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"<a href=\"https://www.whydonate.eu/registration/de\" style=\"text-decoration:"
+"none\" target=\"blank\">Registrieren Sie sich kostenlos bei WhyDonate</a>. "
+"Öffnen Sie Ihr <a href=\"https://www.whydonate.eu/registration/eu\" "
+"style=\"text-decoration:none\" target=\"blank\">WhyDonate-Profil</a> und "
+"klicken Sie auf das API-Schlüssel-Menü. Generieren Sie einen neuen API-"
+"Schlüssel und kopieren Sie ihn unten auf diese Seite."
+
+#: admin/setup/wdplugin-settings-display-page.php:60
+msgid "Access the API Key from the side menu of your profile."
+msgstr "Greifen Sie auf den API-Schlüssel im Seitenmenü Ihres Profils zu."
+
+#: whydonate-v2.php:381 admin/admin-menu.php:28
+#: admin/setup/wdplugin-settings-display-page.php:17
+#: admin/setup/wdplugin-settings-display-page.php:118
+msgid "Account setup"
+msgstr "Konto-Einrichtung"
+
+#: admin/setup/wdplugin-widget-list.php:178
+msgid "Action"
+msgstr "Aktion"
+
+#: admin/setup/wdplugin-widget-list.php:210
+msgid "Add widget"
+msgstr "Widget hinzufügen"
+
+#: admin/setup/wdplugin-settings-display-page.php:142
+msgid "Api Key"
+msgstr "API-Schlüssel"
+
+#: admin/setup/wdplugin-settings-display-page.php:161
+msgid "Click to hide API Key"
+msgstr "Klicken Sie, um den API-Schlüssel ausblenden"
+
+#: admin/setup/wdplugin-settings-display-page.php:155
+#: admin/setup/wdplugin-settings-display-page.php:160
+msgid "Click to show API Key"
+msgstr "Klicken Sie, um den API-Schlüssel ausblenden"
+
+#: admin/setup/wdplugin-widget-list.php:667
+msgid "Copied to Clipboard"
+msgstr "In Zwischenablage kopiert"
+
+#: admin/setup/wdplugin-widget-list.php:633
+msgid "Copy shortcode"
+msgstr "Kopieren Kurzcode"
+
+#: admin/setup/wdplugin-widget-list.php:619
+msgid "Copy the code"
+msgstr "Kopieren den Code"
+
+#: admin/setup/wdplugin-settings-display-page.php:104
+msgid "Copy the HTML code of the widget you wish to place."
+msgstr "Kopieren Sie den HTML-Code des Widgets, das Sie platzieren möchten."
+
+#: admin/setup/wdplugin-widget-list.php:150
+msgid "Create New Widget"
+msgstr "Erstellen neues Widget"
+
+#: admin/setup/wdplugin-settings-display-page.php:91
+msgid ""
+"Customize the style according to your preferences and save it as your widget"
+msgstr ""
+"Passen Sie den Stil nach Ihren Vorlieben an und speichern Sie ihn als Ihr "
+"Widget"
+
+#. Description of the plugin
+msgid ""
+"Donatie button voor je eigen website. Zamel geld in via iDeal, Creditcard, "
+"PayPal, VISA, Sofort en Bancontact. Binnen een paar minuten opgezet en "
+"veilig!"
+msgstr ""
+"Spenden-Button für Ihre eigene Website. Sammeln Sie Geld über iDeal, "
+"Kreditkarte, PayPal, VISA, Sofort und Bancontact. In nur wenigen Minuten "
+"einrichten und sicher machen!"
+
+#: admin/setup/wdplugin-widget-list.php:640
+#: admin/setup/wdplugin-widget-list.php:647
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/setup/wdplugin-widget-list.php:144
+msgid "Embed donation Widget to your website"
+msgstr "Integrieren Sie das Spenden-Widget auf Ihrer Website"
+
+#: admin/setup/wdplugin-settings-display-page.php:166
+msgid "Enter your api-key."
+msgstr "Bitte geben Sie Ihren API-Schlüssel ein."
+
+#: admin/setup/wdplugin-settings-display-page.php:56
+msgid "For Existing WhyDonate Members: "
+msgstr "Für Bestehende WhyDonate-Mitglieder:"
+
+#: admin/setup/wdplugin-settings-display-page.php:32
+msgid "For Whydonate members: "
+msgstr "Für WhyDonate-Mitglieder:"
+
+#: admin/setup/wdplugin-widget-list.php:169
+msgid "Fundraisers"
+msgstr "Spendenaktionen"
+
+#: admin/setup/wdplugin-settings-display-page.php:61
+#: admin/setup/wdplugin-settings-display-page.php:74
+msgid ""
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Generieren Sie einen API-Schlüssel und fügen Sie ihn in den dafür "
+"vorgesehenen Abschnitt am Ende dieser Seite ein."
+
+#: admin/setup/wdplugin-settings-display-page.php:59
+msgid ""
+"Go to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and log in to your account."
+msgstr ""
+"Gehe zu <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> und melde dich in deinem Konto an."
+
+#: admin/setup/wdplugin-settings-display-page.php:21
+msgid "How to use this plugin"
+msgstr "Wie man dieses Plugin verwendet"
+
+#: admin/setup/wdplugin-widget-list.php:175
+msgid "HTML Code"
+msgstr "HTML-Code"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/whydonate/"
+msgstr "https://profiles.wordpress.org/whydonate/"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-whydonate/"
+msgstr "https://wordpress.org/plugins/wp-whydonate/"
+
+#: admin/setup/wdplugin-settings-display-page.php:132
+msgid "I don't have a Whydonate account"
+msgstr "Ich habe kein WhyDonate-Konto"
+
+#: admin/setup/wdplugin-settings-display-page.php:127
+msgid "I have a Whydonate account"
+msgstr "Ich habe ein WhyDonate-Konto"
+
+#: admin/setup/wdplugin-widget-list.php:205
+msgid "It seems you haven’t created any widgets yet."
+msgstr "Es scheint, dass Sie noch keine Widgets erstellt haben."
+
+#: admin/setup/wdplugin-settings-display-page.php:73
+msgid ""
+"Navigate to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and access the API Key from the side menu "
+"of your profile."
+msgstr ""
+"Navigieren Sie zu <a href='https://whydonate.com/' style='text-decoration:"
+"none' target='blank'>whydonate.com</a> und greifen Sie auf den API-Schlüssel "
+"im Seitenmenü Ihres Profils zu."
+
+#: admin/setup/wdplugin-settings-display-page.php:69
+msgid "New to WhyDonate? Register for Free: "
+msgstr "Neu bei WhyDonate? Kostenlos registrieren:"
+
+#: admin/setup/wdplugin-settings-display-page.php:39
+msgid "No Whydonate account yet: "
+msgstr "Noch kein WhyDonate-Konto?"
+
+#: admin/setup/wdplugin-settings-display-page.php:209
+msgid ""
+"Open your <a href=\"https://whydonate.eu/profile\" style=\"text-decoration:"
+"none\" target=\"blank\"> Whydonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page. "
+msgstr ""
+"Öffnen Sie Ihr <a href='https://www.whydonate.eu/profile' style='text-"
+"decoration:none' target='blank'>Whydonate Profil</a> und klicken Sie auf das "
+"API-Schlüssel-Menü. Generieren Sie einen neuen API-Schlüssel und kopieren "
+"Sie ihn am Ende dieser Seite."
+
+#: admin/setup/wdplugin-settings-display-page.php:34
+msgid ""
+"Open your <a href='https://www.whydonate.eu/profile' style='text-decoration:"
+"none' target='blank'> Whydonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"Öffnen Sie Ihr <a href='https://www.whydonate.eu/profile' style='text-"
+"decoration:none' target='blank'>Whydonate Profil</a> und klicken Sie auf das "
+"API-Schlüssel-Menü. Generieren Sie einen neuen API-Schlüssel und kopieren "
+"Sie ihn am Ende dieser Seite."
+
+#: admin/setup/wdplugin-settings-display-page.php:105
+msgid "Paste the code directly onto your webpage."
+msgstr "Paste den Code direkt auf deine Webseite."
+
+#: admin/setup/wdplugin-widget-list.php:626
+msgid ""
+"Please create a widget in the widget portal by clicking on the edit button"
+msgstr ""
+"Bitte erstellen Sie ein Widget im Widget-Portal, indem Sie auf die "
+"Schaltfläche \"Bearbeiten\" klicken."
+
+#: admin/setup/wdplugin-widget-list.php:154
+msgid "Refresh"
+msgstr "Erfrischen"
+
+#: admin/setup/wdplugin-widget-list.php:644
+msgid "Remove"
+msgstr "Entfernen"
+
+#: admin/setup/wdplugin-settings-display-page.php:216
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/setup/wdplugin-widget-list.php:172
+msgid "Shortcode"
+msgstr "Kurzcode"
+
+#: admin/setup/wdplugin-settings-display-page.php:164
+msgid "Show your API key"
+msgstr "Zeigen Sie Ihren API-Schlüssel"
+
+#: admin/setup/wdplugin-settings-display-page.php:72
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Registrieren Sie sich für ein kostenloses Konto auf <a href='https:"
+"//whydonate.com/' style='text-decoration:none' target='blank'>whydonate."
+"com</a>."
+
+#: admin/setup/wdplugin-settings-display-page.php:226
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>. Navigate to <a "
+"href='https://whydonate.com/' style='text-decoration:none' target='blank'>"
+"whydonate.com</a> and access the API Key from the side menu of your profile. "
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Anmelden für ein kostenloses Konto auf <a href='https://whydonate.com/' "
+"style='text-decoration:none' target='blank'>whydonate.com</a>. Navigieren "
+"Sie zu <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> und greifen Sie auf den API-Schlüssel im "
+"Seitenmenü Ihres Profils zu. Generieren Sie einen API-Schlüssel und kopieren "
+"Sie ihn in den dafür vorgesehenen Abschnitt am unteren Rand dieser Seite."
+
+#: admin/setup/wdplugin-widget-list.php:166
+msgid "Style"
+msgstr "Stil"
+
+#: whydonate-v2.php:197
+msgid ""
+"Thanks for updating. If you see any database error message please ignore "
+"those and refresh the page."
+msgstr ""
+"Danke für die Aktualisierung. Wenn Sie eine Fehlermeldung der Datenbank "
+"sehen, ignorieren Sie diese bitte und aktualisieren Sie die Seite."
+
+#: admin/setup/wdplugin-settings-display-page.php:90
+msgid ""
+"Under the 'Style Widget' section, either create a new fundraiser or select "
+"an existing one from your fundraiser list."
+msgstr ""
+"Unter dem Abschnitt 'Style Widget' entweder eine neue Spendenaktion "
+"erstellen oder eine vorhandene aus Ihrer Spendenaktionenliste auswählen."
+
+#: admin/setup/wdplugin-settings-display-page.php:175
+msgid "Update success."
+msgstr "Aktualisierung erfolgreich."
+
+#: admin/setup/wdplugin-settings-display-page.php:172
+msgid "Updating the api-key..."
+msgstr "Aktualisierung des API-Schlüssels..."
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "Whydonate"
+msgstr "WhyDonate"
+
+#: admin/setup/wdplugin-widget-list.php:163
+msgid "Widget ID"
+msgstr "Widget-ID"
+
+#: admin/admin-menu.php:58 admin/setup/wdplugin-widget-list.php:145
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin/setup/wdplugin-settings-display-page.php:89
+msgid ""
+"You will be redirected to <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Sie werden weitergeleitet zu <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>"
+
+#: admin/setup/wdplugin-settings-display-page.php:169
+msgid "Your api-key is not valid. We failed to connect the plugin."
+msgstr ""
+"Dein API-Schlüssel ist ungültig. Die Verbindung mit dem Plugin ist "
+"fehlgeschlagen."
+
+#: admin/setup/wdplugin-settings-display-page.php:11
+#: admin/setup/wdplugin-settings-display-page.php:195
+msgid "Your plugin is now connected to this account: "
+msgstr "Dein Plugin ist jetzt mit diesem Konto verbunden:"

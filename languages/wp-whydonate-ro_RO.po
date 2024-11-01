@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: whydonate-v2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-23 13:53+0000\n"
+"PO-Revision-Date: 2024-08-12 13:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Romanian\n"
+"Language: ro-RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: whydonate-v2"
+
+#: admin/setup/wdplugin-settings-display-page.php:28
+#: admin/setup/wdplugin-settings-display-page.php:47
+#| msgid "1. Connect the plugin to your Whydonate account"
+msgid "1. Connect the plugin to your WhyDonate account"
+msgstr "1. Conectați pluginul la contul dvs. Whydonate"
+
+#: admin/setup/wdplugin-settings-display-page.php:84
+msgid "2. Create a Widget"
+msgstr "2. Creați un widget"
+
+#: admin/setup/wdplugin-settings-display-page.php:99
+#| msgid "3. Add the widget to your Website"
+msgid "3. Add the widget to your website"
+msgstr "3. Adăugați widgetul la site-ul dvs. web"
+
+#: admin/setup/wdplugin-settings-display-page.php:41
+#| msgid ""
+#| "<a href=\"https://www.whydonate.eu/registration/en\" style=\"text-"
+#| "decoration:none\" target=\"blank\">Register for free at Whydonate</a>. "
+#| "Open your <a href=\"https://www.whydonate.eu/registration/eu\" "
+#| "style=\"text-decoration:none\" target=\"blank\">Whydonate Profile</a> and "
+#| "click the API Key menu. Generate a new API Key and copy-paste it to the "
+#| "bottom of this page."
+msgid ""
+"<a href=\"https://www.whydonate.eu/registration/en\" style=\"text-decoration:"
+"none\" target=\"blank\">Register for free at WhyDonate</a>. Open your <a "
+"href=\"https://www.whydonate.eu/registration/eu\" style=\"text-decoration:"
+"none\" target=\"blank\">WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"<a href=\"https://whydonate.com/ro/account/register\" style=\"text-"
+"decoration:none\" target=\"blank\">Înregistrează-te gratuit la Whydonate</a>."
+" Deschide <a href=\"https://whydonate.com/ro/account/register\" style=\"text-"
+"decoration:none\" target=\"blank\">Profilul tău Whydonate</a> și dă clic pe "
+"meniul Cheie API. Generează o nouă Cheie API și copiaz-o în partea de jos a "
+"acestei pagini."
+
+#: admin/setup/wdplugin-settings-display-page.php:60
+msgid "Access the API Key from the side menu of your profile."
+msgstr "Accesați cheia API din meniul lateral al profilului dvs."
+
+#: whydonate-v2.php:382 admin/admin-menu.php:28
+#: admin/setup/wdplugin-settings-display-page.php:17
+#: admin/setup/wdplugin-settings-display-page.php:118
+#| msgid "Account setup"
+msgid "Account Setup"
+msgstr "Configurarea contului"
+
+#: admin/setup/wdplugin-widget-list.php:180
+msgid "Action"
+msgstr "Acțiune"
+
+#: admin/setup/wdplugin-widget-list.php:212
+#| msgid "Add widget"
+msgid "Add Widget"
+msgstr "Adăugați widget"
+
+#: admin/setup/wdplugin-settings-display-page.php:142
+msgid "Api Key"
+msgstr "Cheie API"
+
+#: admin/setup/wdplugin-settings-display-page.php:161
+msgid "Click to hide API Key"
+msgstr "Faceți clic pentru a ascunde cheia API"
+
+#: admin/setup/wdplugin-settings-display-page.php:155
+#: admin/setup/wdplugin-settings-display-page.php:160
+msgid "Click to show API Key"
+msgstr "Faceți clic pentru a afișa cheia API"
+
+#: admin/setup/wdplugin-widget-list.php:670
+msgid "Copied to Clipboard"
+msgstr "Copiat în clipboard"
+
+#: admin/setup/wdplugin-widget-list.php:636
+msgid "Copy shortcode"
+msgstr "Copiați codul scurt"
+
+#: admin/setup/wdplugin-widget-list.php:622
+msgid "Copy the code"
+msgstr "Copiați codul"
+
+#: admin/setup/wdplugin-settings-display-page.php:104
+msgid "Copy the HTML code of the widget you wish to place."
+msgstr "Copiați codul HTML al widgetului pe care doriți să îl plasați."
+
+#: admin/setup/wdplugin-widget-list.php:151
+msgid "Create New Widget"
+msgstr "Creați un widget nou"
+
+#: admin/setup/wdplugin-settings-display-page.php:91
+#| msgid ""
+#| "Customize the style according to your preferences and save it as your "
+#| "widget"
+msgid ""
+"Customise the style according to your preferences and save it as your widget"
+msgstr ""
+"Personalizați stilul conform preferințelor dvs. și salvați-l ca widget."
+
+#. Description of the plugin
+msgid ""
+"Donatie button voor je eigen website. Zamel geld in via iDeal, Creditcard, "
+"PayPal, VISA, Sofort en Bancontact. Binnen een paar minuten opgezet en "
+"veilig!"
+msgstr ""
+"Buton de donație pentru propriul site web. Colectați bani prin iDeal, "
+"Creditcard, PayPal, VISA, Sofort și Bancontact. Configurat și sigur în "
+"câteva minute!"
+
+#: admin/setup/wdplugin-widget-list.php:643
+#: admin/setup/wdplugin-widget-list.php:650
+msgid "Edit"
+msgstr "Editați"
+
+#: admin/setup/wdplugin-widget-list.php:144
+msgid "Embed donation Widget to your website"
+msgstr "Încorporați widgetul de donație pe site-ul dvs. web"
+
+#: admin/setup/wdplugin-settings-display-page.php:166
+msgid "Enter your api-key."
+msgstr "Introduceți cheia dvs. API."
+
+#: admin/setup/wdplugin-settings-display-page.php:56
+msgid "For Existing WhyDonate Members: "
+msgstr "Pentru membrii existenți ai WhyDonate:"
+
+#: admin/setup/wdplugin-settings-display-page.php:32
+#| msgid "For Whydonate members: "
+msgid "For WhyDonate members: "
+msgstr "Pentru membrii Whydonate:"
+
+#: admin/setup/wdplugin-widget-list.php:171
+msgid "Fundraisers"
+msgstr "Strângeri de fonduri"
+
+#: admin/setup/wdplugin-settings-display-page.php:61
+#: admin/setup/wdplugin-settings-display-page.php:74
+msgid ""
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Generați o cheie API și copiați-o în secțiunea desemnată din partea de jos a "
+"acestei pagini."
+
+#: admin/setup/wdplugin-settings-display-page.php:59
+msgid ""
+"Go to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and log in to your account."
+msgstr "Accesați whydonate.com și conectați-vă la contul dvs."
+
+#: admin/setup/wdplugin-settings-display-page.php:21
+msgid "How to use this plugin"
+msgstr "Cum să utilizați acest plugin"
+
+#: admin/setup/wdplugin-widget-list.php:177
+msgid "HTML Code"
+msgstr "Cod HTML"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/whydonate/"
+msgstr "https://profiles.wordpress.org/whydonate/"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-whydonate/"
+msgstr "https://wordpress.org/plugins/wp-whydonate/"
+
+#: admin/setup/wdplugin-settings-display-page.php:132
+#| msgid "I don't have a Whydonate account"
+msgid "I don't have a WhyDonate account"
+msgstr "Nu am un cont Whydonate"
+
+#: admin/setup/wdplugin-settings-display-page.php:127
+#| msgid "I have a Whydonate account"
+msgid "I have a WhyDonate account"
+msgstr "Am un cont Whydonate"
+
+#: admin/setup/wdplugin-widget-list.php:207
+msgid "It seems you haven’t created any widgets yet."
+msgstr "Se pare că nu ați creat încă niciun widget."
+
+#: admin/setup/wdplugin-settings-display-page.php:73
+msgid ""
+"Navigate to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and access the API Key from the side menu "
+"of your profile."
+msgstr ""
+"Accesați whydonate.com și accesați cheia API din meniul lateral al "
+"profilului dvs."
+
+#: admin/setup/wdplugin-settings-display-page.php:69
+msgid "New to WhyDonate? Register for Free: "
+msgstr "Nou la WhyDonate? Înregistrați-vă gratuit:"
+
+#: admin/setup/wdplugin-settings-display-page.php:39
+#| msgid "No Whydonate account yet: "
+msgid "No Whydonate account yet? "
+msgstr "Nu aveți încă un cont Whydonate:"
+
+#: admin/setup/wdplugin-settings-display-page.php:209
+#| msgid ""
+#| "Open your <a href=\"https://whydonate.eu/profile\" style=\"text-"
+#| "decoration:none\" target=\"blank\"> Whydonate Profile</a> and click the "
+#| "API Key menu. Generate a new API Key and copy-paste it to the bottom of "
+#| "this page. "
+msgid ""
+"Open your <a href=\"https://whydonate.eu/profile\" style=\"text-decoration:"
+"none\" target=\"blank\"> WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page. "
+msgstr ""
+"<a href=\"https://whydonate.com/ro/account/register\" style=\"text-"
+"decoration:none\" target=\"blank\">Înregistrează-te gratuit la WhyDonate</a>."
+" Deschide-ți <a href=\"https://whydonate.com/ro/account/register\" "
+"style=\"text-decoration:none\" target=\"blank\">Profilul WhyDonate</a> și dă "
+"click pe meniul Cheie API. Generează o nouă Cheie API și copiaz-o în partea "
+"de jos a acestei pagini."
+
+#: admin/setup/wdplugin-settings-display-page.php:34
+#| msgid ""
+#| "Open your <a href='https://www.whydonate.eu/profile' style='text-"
+#| "decoration:none' target='blank'> Whydonate Profile</a> and click the API "
+#| "Key menu. Generate a new API Key and copy-paste it to the bottom of this "
+#| "page."
+msgid ""
+"Open your <a href='https://www.whydonate.eu/profile' style='text-decoration:"
+"none' target='blank'> WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"<a href=\"https://whydonate.com/ro/account/register\" style=\"text-"
+"decoration:none\" target=\"blank\">Înregistrează-te gratuit la WhyDonate</a>."
+" Deschide-ți <a href=\"https://whydonate.com/ro/account/register\" "
+"style=\"text-decoration:none\" target=\"blank\">Profilul WhyDonate</a> și dă "
+"click pe meniul Cheie API. Generează o nouă Cheie API și copiaz-o în partea "
+"de jos a acestei pagini."
+
+#: admin/setup/wdplugin-settings-display-page.php:105
+msgid "Paste the code directly onto your webpage."
+msgstr "Lipește codul direct în pagina ta web."
+
+#: admin/setup/wdplugin-widget-list.php:629
+msgid ""
+"Please create a widget in the widget portal by clicking on the edit button"
+msgstr ""
+"Te rog creează un widget în portalul de widgeturi apăsând pe butonul de "
+"editare."
+
+#: admin/setup/wdplugin-widget-list.php:156
+msgid "Refresh"
+msgstr "Reîmprospătează"
+
+#: admin/setup/wdplugin-widget-list.php:647
+msgid "Remove"
+msgstr "Elimină"
+
+#: admin/setup/wdplugin-settings-display-page.php:216
+msgid "Save"
+msgstr "Salvează"
+
+#: admin/setup/wdplugin-widget-list.php:174
+msgid "Shortcode"
+msgstr "Copiază shortcode-ul"
+
+#: admin/setup/wdplugin-settings-display-page.php:164
+#| msgid "Show your API key"
+msgid "Show your API Key"
+msgstr "Arată Cheia ta API"
+
+#: admin/setup/wdplugin-settings-display-page.php:72
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Înregistrați-vă pentru un cont gratuit pe <a href='https://whydonate."
+"com/ro/' style='text-decoration:none' target='blank'>whydonate.com</a>."
+
+#: admin/setup/wdplugin-settings-display-page.php:226
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>. Navigate to <a "
+"href='https://whydonate.com/' style='text-decoration:none' target='blank'>"
+"whydonate.com</a> and access the API Key from the side menu of your profile. "
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Înregistrați-vă pentru un cont gratuit pe <a href='https://whydonate."
+"com/ro/' style='text-decoration:none' target='blank'>whydonate.com</a>. "
+"Navigați la <a href='https://whydonate.com/ro/' style='text-decoration:none' "
+"target='blank'>whydonate.com/ro</a> și accesați cheia API din meniul lateral "
+"al profilului dvs. Generați o cheie API și copiați-o în secțiunea desemnată "
+"de la partea de jos a acestei pagini."
+
+#: admin/setup/wdplugin-widget-list.php:168
+msgid "Style"
+msgstr "Stil"
+
+#: whydonate-v2.php:197
+#| msgid ""
+#| "Thanks for updating. If you see any database error message please ignore "
+#| "those and refresh the page."
+msgid ""
+"Thanks for updating. If you see any database error messages, please ignore "
+"them and refresh the page."
+msgstr ""
+"Mulțumim pentru actualizare. Dacă vezi mesaje de eroare ale bazei de date, "
+"te rog ignoră-le și reîmprospătează pagina."
+
+#: admin/setup/wdplugin-settings-display-page.php:90
+msgid ""
+"Under the 'Style Widget' section, either create a new fundraiser or select "
+"an existing one from your fundraiser list."
+msgstr ""
+"În secțiunea 'Widget Stil', fie creează un nou fundraiser, fie selectează "
+"unul existent din lista ta de fundraiser-e."
+
+#: admin/setup/wdplugin-settings-display-page.php:175
+msgid "Update success."
+msgstr "Actualizare reușită"
+
+#: admin/setup/wdplugin-settings-display-page.php:172
+#| msgid "Updating the api-key..."
+msgid "Updating the API Key..."
+msgstr "Actualizând Cheia API..."
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "Whydonate"
+msgstr "WhyDonate"
+
+#: admin/setup/wdplugin-widget-list.php:165
+msgid "Widget ID"
+msgstr "ID Widget"
+
+#: admin/admin-menu.php:58 admin/setup/wdplugin-widget-list.php:145
+msgid "Widgets"
+msgstr "Widgeturi"
+
+#: admin/setup/wdplugin-settings-display-page.php:89
+msgid ""
+"You will be redirected to <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Veți fi redirecționat către <a href='https://whydonate.com/ro/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+
+#: admin/setup/wdplugin-settings-display-page.php:169
+#| msgid "Your api-key is not valid. We failed to connect the plugin."
+msgid "Your API Key is not valid. We failed to connect the plugin."
+msgstr "Cheia ta API nu este validă. Nu am reușit să conectăm pluginul."
+
+#: admin/setup/wdplugin-settings-display-page.php:11
+#: admin/setup/wdplugin-settings-display-page.php:195
+msgid "Your plugin is now connected to this account: "
+msgstr "Pluginul tău este acum conectat la acest cont:"

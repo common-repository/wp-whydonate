@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: whydonate-v2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 09:37+0000\n"
+"PO-Revision-Date: 2024-08-12 13:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: whydonate-v2"
+
+#: whydonate-v2.php:197
+msgid ""
+"Thanks for updating. If you see any database error messages, please ignore "
+"them and refresh the page."
+msgstr ""
+"Ευχαριστούμε για την ενημέρωση. Εάν δείτε κάποιο μήνυμα σφάλματος βάσης "
+"δεδομένων, παρακαλώ αγνοήστε το και ανανεώστε τη σελίδα."
+
+#: whydonate-v2.php:382 admin/admin-menu.php:28
+#: admin/setup/wdplugin-settings-display-page.php:17
+#: admin/setup/wdplugin-settings-display-page.php:118
+msgid "Account Setup"
+msgstr "Ρύθμιση λογαριασμού"
+
+#: admin/admin-menu.php:58 admin/setup/wdplugin-widget-list.php:145
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin/setup/wdplugin-widget-list.php:144
+msgid "Embed donation Widget to your website"
+msgstr "Ενσωμάτωση Widget δωρεάς στην ιστοσελίδα σας"
+
+#: admin/setup/wdplugin-widget-list.php:151
+msgid "Create New Widget"
+msgstr "Δημιουργία Νέου Widget"
+
+#: admin/setup/wdplugin-widget-list.php:156
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+#: admin/setup/wdplugin-widget-list.php:165
+msgid "Widget ID"
+msgstr "Widget ID"
+
+#: admin/setup/wdplugin-widget-list.php:168
+msgid "Style"
+msgstr "Στυλ"
+
+#: admin/setup/wdplugin-widget-list.php:171
+msgid "Fundraisers"
+msgstr "Εράνους"
+
+#: admin/setup/wdplugin-widget-list.php:174
+msgid "Shortcode"
+msgstr "Κωδικός συντομίας"
+
+#: admin/setup/wdplugin-widget-list.php:177
+msgid "HTML Code"
+msgstr "HTML Κώδικας"
+
+#: admin/setup/wdplugin-widget-list.php:180
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: admin/setup/wdplugin-widget-list.php:207
+msgid "It seems you haven’t created any widgets yet."
+msgstr "Φαίνεται ότι δεν έχετε δημιουργήσει κανένα widget ακόμα."
+
+#: admin/setup/wdplugin-widget-list.php:212
+msgid "Add Widget"
+msgstr "Προσθήκη Widget"
+
+#: admin/setup/wdplugin-widget-list.php:622
+msgid "Copy the code"
+msgstr "Αντιγράψτε τον κωδικό"
+
+#: admin/setup/wdplugin-widget-list.php:629
+msgid ""
+"Please create a widget in the widget portal by clicking on the edit button"
+msgstr ""
+"Παρακαλώ δημιουργήστε ένα widget στην πύλη widget κάνοντας κλικ στο κουμπί "
+"επεξεργασίας"
+
+#: admin/setup/wdplugin-widget-list.php:636
+msgid "Copy shortcode"
+msgstr "Αντιγραφή σύντομου κωδικού"
+
+#: admin/setup/wdplugin-widget-list.php:643
+#: admin/setup/wdplugin-widget-list.php:650
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: admin/setup/wdplugin-widget-list.php:647
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: admin/setup/wdplugin-widget-list.php:670
+msgid "Copied to Clipboard"
+msgstr "Αντιγράφηκε στο Πρόχειρο"
+
+#: admin/setup/wdplugin-settings-display-page.php:11
+#: admin/setup/wdplugin-settings-display-page.php:195
+msgid "Your plugin is now connected to this account: "
+msgstr "Το plugin σας είναι τώρα συνδεδεμένο με αυτόν τον λογαριασμό:"
+
+#: admin/setup/wdplugin-settings-display-page.php:21
+msgid "How to use this plugin"
+msgstr "Πώς να χρησιμοποιήσετε αυτό το plugin"
+
+#: admin/setup/wdplugin-settings-display-page.php:28
+#: admin/setup/wdplugin-settings-display-page.php:47
+msgid "1. Connect the plugin to your WhyDonate account"
+msgstr "1. Συνδέστε το plugin με τον λογαριασμό σας στο WhyDonate"
+
+#: admin/setup/wdplugin-settings-display-page.php:32
+msgid "For WhyDonate members: "
+msgstr "Για τα μέλη του WhyDonate:"
+
+#: admin/setup/wdplugin-settings-display-page.php:34
+msgid ""
+"Open your <a href='https://www.whydonate.eu/profile' style='text-decoration:"
+"none' target='blank'> WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"Άνοιξε το <a href='https://whydonate.com/el/account/login' style='text-"
+"decoration:none' target='blank'> Προφίλ WhyDonate</a> και κάντε κλικ στο "
+"μενού \"API Key\". Δημιουργήστε ένα νέο API Key και αντιγράψτε-επικολλήστε "
+"το στο κάτω μέρος αυτής της σελίδας."
+
+#: admin/setup/wdplugin-settings-display-page.php:39
+msgid "No Whydonate account yet? "
+msgstr "Δεν έχετε ακόμα λογαριασμό στο WhyDonate:"
+
+#: admin/setup/wdplugin-settings-display-page.php:41
+msgid ""
+"<a href=\"https://www.whydonate.eu/registration/en\" style=\"text-decoration:"
+"none\" target=\"blank\">Register for free at WhyDonate</a>. Open your <a "
+"href=\"https://www.whydonate.eu/registration/eu\" style=\"text-decoration:"
+"none\" target=\"blank\">WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"<a href=\"https://whydonate.com/el/account/register\" style=\"text-"
+"decoration:none\" target=\"blank\">Εγγραφείτε δωρεάν στο WhyDonate</a>. "
+"Άνοιξε το <a href=\"https://whydonate.com/en/account/register\" style=\"text-"
+"decoration:none\" target=\"blank\">Προφίλ WhyDonate</a> και κάντε κλικ στο "
+"μενού API Key. Δημιουργήστε ένα νέο API Key και αντιγράψτε-επικολλήστε το "
+"στο κάτω μέρος αυτής της σελίδας."
+
+#: admin/setup/wdplugin-settings-display-page.php:56
+msgid "For Existing WhyDonate Members: "
+msgstr "Για Υπάρχοντα Μέλη του WhyDonate:"
+
+#: admin/setup/wdplugin-settings-display-page.php:59
+msgid ""
+"Go to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and log in to your account."
+msgstr ""
+"Πηγαίνετε στο <a href='https://whydonate.com/el/' style='text-decoration:"
+"none' target='blank'>whydonate.com</a> και συνδεθείτε στο λογαριασμό σας."
+
+#: admin/setup/wdplugin-settings-display-page.php:60
+msgid "Access the API Key from the side menu of your profile."
+msgstr "Αποκτήστε το Κλειδί API από το πλαϊνό μενού του προφίλ σας."
+
+#: admin/setup/wdplugin-settings-display-page.php:61
+#: admin/setup/wdplugin-settings-display-page.php:74
+msgid ""
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Δημιουργήστε ένα Κλειδί API και αντιγράψτε το στο καθορισμένο τμήμα στο κάτω "
+"μέρος αυτής της σελίδας."
+
+#: admin/setup/wdplugin-settings-display-page.php:69
+msgid "New to WhyDonate? Register for Free: "
+msgstr "Νέος στο WhyDonate; Εγγραφείτε δωρεάν:"
+
+#: admin/setup/wdplugin-settings-display-page.php:72
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Εγγραφείτε για έναν δωρεάν λογαριασμό στο <a href='https://whydonate."
+"com/el/' style='text-decoration:none' target='blank'>whydonate.com</a>."
+
+#: admin/setup/wdplugin-settings-display-page.php:73
+msgid ""
+"Navigate to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and access the API Key from the side menu "
+"of your profile."
+msgstr ""
+"Μεταβείτε στο <a href='https://whydonate.com/el/' style='text-decoration:"
+"none' target='blank'>whydonate.com</a> και αποκτήστε το API Key από το "
+"πλευρικό μενού του προφίλ σας."
+
+#: admin/setup/wdplugin-settings-display-page.php:84
+msgid "2. Create a Widget"
+msgstr "2. Δημιουργήστε ένα Widget"
+
+#: admin/setup/wdplugin-settings-display-page.php:89
+msgid ""
+"You will be redirected to <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Θα ανακατευθυνθείτε στο <a href='https://whydonate.com/el/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+
+#: admin/setup/wdplugin-settings-display-page.php:90
+msgid ""
+"Under the 'Style Widget' section, either create a new fundraiser or select "
+"an existing one from your fundraiser list."
+msgstr ""
+"Στην ενότητα 'Style Widget', είτε δημιουργήστε μια νέα συγκέντρωση χρημάτων "
+"είτε επιλέξτε μια υπάρχουσα από τη λίστα των συγκεντρώσεων σας."
+
+#: admin/setup/wdplugin-settings-display-page.php:91
+msgid ""
+"Customise the style according to your preferences and save it as your widget"
+msgstr ""
+"Προσαρμόστε το στυλ σύμφωνα με τις προτιμήσεις σας και αποθηκεύστε το ως το "
+"widget σας"
+
+#: admin/setup/wdplugin-settings-display-page.php:99
+msgid "3. Add the widget to your website"
+msgstr "3. Προσθέστε το widget στην Ιστοσελίδα σας"
+
+#: admin/setup/wdplugin-settings-display-page.php:104
+msgid "Copy the HTML code of the widget you wish to place."
+msgstr "Αντιγράψτε τον HTML κώδικα του widget που θέλετε να τοποθετήσετε."
+
+#: admin/setup/wdplugin-settings-display-page.php:105
+msgid "Paste the code directly onto your webpage."
+msgstr "Επικολλήστε τον κωδικό απευθείας στην ιστοσελίδα σας."
+
+#: admin/setup/wdplugin-settings-display-page.php:127
+msgid "I have a WhyDonate account"
+msgstr "Έχω λογαριασμό στο WhyDonate"
+
+#: admin/setup/wdplugin-settings-display-page.php:132
+msgid "I don't have a WhyDonate account"
+msgstr "Δεν έχω λογαριασμό στο WhyDonate"
+
+#: admin/setup/wdplugin-settings-display-page.php:142
+msgid "Api Key"
+msgstr "Κλειδί API"
+
+#: admin/setup/wdplugin-settings-display-page.php:155
+#: admin/setup/wdplugin-settings-display-page.php:160
+msgid "Click to show API Key"
+msgstr "Κάντε κλικ για να εμφανίσετε το Κλειδί API"
+
+#: admin/setup/wdplugin-settings-display-page.php:161
+msgid "Click to hide API Key"
+msgstr "Κάντε κλικ για να αποκρύψετε το Κλειδί API"
+
+#: admin/setup/wdplugin-settings-display-page.php:164
+msgid "Show your API Key"
+msgstr "Δείξτε το API Key σας"
+
+#: admin/setup/wdplugin-settings-display-page.php:166
+msgid "Enter your api-key."
+msgstr "Εισάγετε το api-key σας."
+
+#: admin/setup/wdplugin-settings-display-page.php:169
+msgid "Your API Key is not valid. We failed to connect the plugin."
+msgstr "ΤοAPI-Key σας δεν είναι έγκυρο. Αποτύχαμε να συνδέσουμε το plugin."
+
+#: admin/setup/wdplugin-settings-display-page.php:172
+msgid "Updating the API Key..."
+msgstr "Ενημέρωση του api-key..."
+
+#: admin/setup/wdplugin-settings-display-page.php:175
+msgid "Update success."
+msgstr "Επιτυχία ενημέρωσης."
+
+#: admin/setup/wdplugin-settings-display-page.php:209
+msgid ""
+"Open your <a href=\"https://whydonate.eu/profile\" style=\"text-decoration:"
+"none\" target=\"blank\"> WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page. "
+msgstr ""
+"Άνοιξε το <a href='https://whydonate.com/el/account/login' style='text-"
+"decoration:none' target='blank'> Προφίλ WhyDonate</a> και κάντε κλικ στο "
+"μενού \"API Key\". Δημιουργήστε ένα νέο API Key και αντιγράψτε-επικολλήστε "
+"το στο κάτω μέρος αυτής της σελίδας."
+
+#: admin/setup/wdplugin-settings-display-page.php:216
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: admin/setup/wdplugin-settings-display-page.php:226
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>. Navigate to <a "
+"href='https://whydonate.com/' style='text-decoration:none' target='blank'>"
+"whydonate.com</a> and access the API Key from the side menu of your profile. "
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Εγγραφείτε για έναν δωρεάν λογαριασμό στο <a href='https://whydonate."
+"com/el/' style='text-decoration:none' target='blank'>whydonate.com</a>. "
+"Μεταβείτε στο <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> και αποκτήστε το API Key από το πλευρικό "
+"μενού του προφίλ σας. Δημιουργήστε ένα API Key και αντιγράψτε το στην "
+"κατάλληλη ενότητα στο κάτω μέρος αυτής της σελίδας."
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "Whydonate"
+msgstr "WhyDonate"
+
+#. Description of the plugin
+msgid ""
+"Donatie button voor je eigen website. Zamel geld in via iDeal, Creditcard, "
+"PayPal, VISA, Sofort en Bancontact. Binnen een paar minuten opgezet en "
+"veilig!"
+msgstr ""
+"Κουμπί δωρεάς για τη δική σας ιστοσελίδα. Συγκεντρώστε χρήματα μέσω iDeal, "
+"Creditcard, PayPal, VISA, Sofort και Bancontact. Εγκαθίσταται σε λίγα λεπτά "
+"και είναι ασφαλές!"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-whydonate/"
+msgstr "https://wordpress.org/plugins/wp-whydonate/"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/whydonate/"
+msgstr "https://profiles.wordpress.org/whydonate/"

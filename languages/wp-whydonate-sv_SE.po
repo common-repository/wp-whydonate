@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: whydonate-v2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-30 08:54+0000\n"
+"PO-Revision-Date: 2024-08-12 13:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Swedish\n"
+"Language: sv-SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: whydonate-v2"
+
+#: whydonate-v2.php:197
+msgid ""
+"Thanks for updating. If you see any database error messages, please ignore "
+"them and refresh the page."
+msgstr ""
+"Tack för uppdateringen. Om du ser några databasfelmeddelanden, ignorera dem "
+"och uppdatera sidan."
+
+#: whydonate-v2.php:382 admin/admin-menu.php:28
+#: admin/setup/wdplugin-settings-display-page.php:17
+#: admin/setup/wdplugin-settings-display-page.php:118
+msgid "Account Setup"
+msgstr "Kontoinställningar"
+
+#: admin/admin-menu.php:58 admin/setup/wdplugin-widget-list.php:145
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin/setup/wdplugin-widget-list.php:144
+msgid "Embed donation Widget to your website"
+msgstr "Bädda in donationswidget på din webbplats"
+
+#: admin/setup/wdplugin-widget-list.php:151
+msgid "Create New Widget"
+msgstr "Skapa Ny Widget"
+
+#: admin/setup/wdplugin-widget-list.php:156
+msgid "Refresh"
+msgstr "Uppdatera"
+
+#: admin/setup/wdplugin-widget-list.php:165
+msgid "Widget ID"
+msgstr "Widget-ID"
+
+#: admin/setup/wdplugin-widget-list.php:168
+msgid "Style"
+msgstr "Stil"
+
+#: admin/setup/wdplugin-widget-list.php:171
+msgid "Fundraisers"
+msgstr "Insamling"
+
+#: admin/setup/wdplugin-widget-list.php:174
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: admin/setup/wdplugin-widget-list.php:177
+msgid "HTML Code"
+msgstr "HTML-kod"
+
+#: admin/setup/wdplugin-widget-list.php:180
+msgid "Action"
+msgstr "Handling"
+
+#: admin/setup/wdplugin-widget-list.php:207
+msgid "It seems you haven’t created any widgets yet."
+msgstr "Det verkar som att du inte har skapat några widgets än."
+
+#: admin/setup/wdplugin-widget-list.php:212
+msgid "Add Widget"
+msgstr "Lägg till Widget"
+
+#: admin/setup/wdplugin-widget-list.php:622
+msgid "Copy the code"
+msgstr "Kopiera koden"
+
+#: admin/setup/wdplugin-widget-list.php:629
+msgid ""
+"Please create a widget in the widget portal by clicking on the edit button"
+msgstr "Skapa en widget i widgetportalen genom att klicka på redigera-knappen"
+
+#: admin/setup/wdplugin-widget-list.php:636
+msgid "Copy shortcode"
+msgstr "Kopiera kortkod"
+
+#: admin/setup/wdplugin-widget-list.php:643
+#: admin/setup/wdplugin-widget-list.php:650
+msgid "Edit"
+msgstr "Redigera"
+
+#: admin/setup/wdplugin-widget-list.php:647
+msgid "Remove"
+msgstr "Avlägsna"
+
+#: admin/setup/wdplugin-widget-list.php:670
+msgid "Copied to Clipboard"
+msgstr "Kopierade till Urklipp"
+
+#: admin/setup/wdplugin-settings-display-page.php:11
+#: admin/setup/wdplugin-settings-display-page.php:195
+msgid "Your plugin is now connected to this account: "
+msgstr "Ditt plugin är nu anslutet till detta konto:"
+
+#: admin/setup/wdplugin-settings-display-page.php:21
+msgid "How to use this plugin"
+msgstr "Hur man använder detta plugin"
+
+#: admin/setup/wdplugin-settings-display-page.php:28
+#: admin/setup/wdplugin-settings-display-page.php:47
+msgid "1. Connect the plugin to your WhyDonate account"
+msgstr "1. Anslut plugin-programmet till ditt WhyDonate-konto"
+
+#: admin/setup/wdplugin-settings-display-page.php:32
+msgid "For WhyDonate members: "
+msgstr "För WhyDonate-medlemmar: "
+
+#: admin/setup/wdplugin-settings-display-page.php:34
+msgid ""
+"Open your <a href='https://www.whydonate.eu/profile' style='text-decoration:"
+"none' target='blank'> WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"Öppna din <a href='https://whydonate.com/sv/profile/account' style='text-"
+"decoration:none' target='blank'>WhyDonate-profil</a> och klicka på API-"
+"nyckelmenyn. Skapa en ny API-nyckel och kopiera och klistra in den längst "
+"ner på den här sidan."
+
+#: admin/setup/wdplugin-settings-display-page.php:39
+msgid "No Whydonate account yet? "
+msgstr "Inget WhyDonate-konto ännu? "
+
+#: admin/setup/wdplugin-settings-display-page.php:41
+msgid ""
+"<a href=\"https://www.whydonate.eu/registration/en\" style=\"text-decoration:"
+"none\" target=\"blank\">Register for free at WhyDonate</a>. Open your <a "
+"href=\"https://www.whydonate.eu/registration/eu\" style=\"text-decoration:"
+"none\" target=\"blank\">WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page."
+msgstr ""
+"<a href=\"https://whydonate.com/sv/account/register\" style=\"text-"
+"decoration:none\" target=\"blank\">Registrera dig gratis på WhyDonate</a>. "
+"Öppna din <a href=\"https://whydonate.com/sv/account/register\" style=\"text-"
+"decoration:none\" target=\"blank\">WhyDonate-profil</a> och klicka på API-"
+"nyckelmenyn. Skapa en ny API-nyckel och kopiera och klistra in den längst "
+"ner på den här sidan."
+
+#: admin/setup/wdplugin-settings-display-page.php:56
+msgid "For Existing WhyDonate Members: "
+msgstr "För befintliga WhyDonate-medlemmar: "
+
+#: admin/setup/wdplugin-settings-display-page.php:59
+msgid ""
+"Go to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and log in to your account."
+msgstr ""
+"Gå till <a href='https://whydonate.com/sv/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> och logga in på ditt konto."
+
+#: admin/setup/wdplugin-settings-display-page.php:60
+msgid "Access the API Key from the side menu of your profile."
+msgstr "Öppna API-nyckeln från sidomenyn i din profil."
+
+#: admin/setup/wdplugin-settings-display-page.php:61
+#: admin/setup/wdplugin-settings-display-page.php:74
+msgid ""
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Skapa en API-nyckel och kopiera och klistra in den i den angivna sektionen "
+"längst ner på den här sidan."
+
+#: admin/setup/wdplugin-settings-display-page.php:69
+msgid "New to WhyDonate? Register for Free: "
+msgstr "Ny på WhyDonate? Registrera gratis: "
+
+#: admin/setup/wdplugin-settings-display-page.php:72
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Registrera dig för ett gratis konto på <a href='https://whydonate.com/sv/' "
+"style='text-decoration:none' target='blank'>whydonate.com</a>"
+
+#: admin/setup/wdplugin-settings-display-page.php:73
+msgid ""
+"Navigate to <a href='https://whydonate.com/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> and access the API Key from the side menu "
+"of your profile."
+msgstr ""
+"Navigera till <a href='https://whydonate.com/sv/' style='text-decoration:"
+"none' target='blank'>whydonate.com</a> och öppna API-nyckeln från sidomenyn "
+"i din profil ."
+
+#: admin/setup/wdplugin-settings-display-page.php:84
+msgid "2. Create a Widget"
+msgstr "2. Skapa en Widget"
+
+#: admin/setup/wdplugin-settings-display-page.php:89
+msgid ""
+"You will be redirected to <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>."
+msgstr ""
+"Du kommer att omdirigeras till <a href='https://whydonate.com/sv/' "
+"style='text-decoration:none' target='blank'>whydonate.com</a>."
+
+#: admin/setup/wdplugin-settings-display-page.php:90
+msgid ""
+"Under the 'Style Widget' section, either create a new fundraiser or select "
+"an existing one from your fundraiser list."
+msgstr ""
+"Under avsnittet \"Stylewidget\" skapar du antingen en ny insamling eller "
+"väljer en befintlig från din insamlingslista."
+
+#: admin/setup/wdplugin-settings-display-page.php:91
+msgid ""
+"Customise the style according to your preferences and save it as your widget"
+msgstr "Anpassa stilen efter dina preferenser och spara den som din widget"
+
+#: admin/setup/wdplugin-settings-display-page.php:99
+msgid "3. Add the widget to your website"
+msgstr "3. Lägg till widgeten på din webbplats"
+
+#: admin/setup/wdplugin-settings-display-page.php:104
+msgid "Copy the HTML code of the widget you wish to place."
+msgstr "Kopiera HTML-koden för widgeten du vill placera."
+
+#: admin/setup/wdplugin-settings-display-page.php:105
+msgid "Paste the code directly onto your webpage."
+msgstr "Klistra in koden direkt på din webbsida."
+
+#: admin/setup/wdplugin-settings-display-page.php:127
+msgid "I have a WhyDonate account"
+msgstr "Jag har ett WhyDonate-konto"
+
+#: admin/setup/wdplugin-settings-display-page.php:132
+msgid "I don't have a WhyDonate account"
+msgstr "Jag har inget WhyDonate-konto"
+
+#: admin/setup/wdplugin-settings-display-page.php:142
+msgid "Api Key"
+msgstr "API-nyckel"
+
+#: admin/setup/wdplugin-settings-display-page.php:155
+#: admin/setup/wdplugin-settings-display-page.php:160
+msgid "Click to show API Key"
+msgstr "Klicka för att visa API-nyckel"
+
+#: admin/setup/wdplugin-settings-display-page.php:161
+msgid "Click to hide API Key"
+msgstr "Klicka för att dölja API-nyckel"
+
+#: admin/setup/wdplugin-settings-display-page.php:164
+msgid "Show your API Key"
+msgstr "Visa din API-nyckel"
+
+#: admin/setup/wdplugin-settings-display-page.php:166
+msgid "Enter your api-key."
+msgstr "Ange din API-nyckel."
+
+#: admin/setup/wdplugin-settings-display-page.php:169
+msgid "Your API Key is not valid. We failed to connect the plugin."
+msgstr ""
+"Din API-nyckel är inte giltig. Vi misslyckades med att ansluta plugin-"
+"programmet."
+
+#: admin/setup/wdplugin-settings-display-page.php:172
+msgid "Updating the API Key..."
+msgstr "Uppdaterar API-nyckeln..."
+
+#: admin/setup/wdplugin-settings-display-page.php:175
+msgid "Update success."
+msgstr "Uppdatering lyckades"
+
+#: admin/setup/wdplugin-settings-display-page.php:209
+msgid ""
+"Open your <a href=\"https://whydonate.eu/profile\" style=\"text-decoration:"
+"none\" target=\"blank\"> WhyDonate Profile</a> and click the API Key menu. "
+"Generate a new API Key and copy-paste it to the bottom of this page. "
+msgstr ""
+"Öppna din <a href=\"https://whydonate.com/sv/profile/account\" style=\"text-"
+"decoration:none\" target=\"blank\">WhyDonate-profil </a> och klicka på API-"
+"nyckelmenyn. Skapa en ny API-nyckel och kopiera och klistra in den längst "
+"ner på den här sidan."
+
+#: admin/setup/wdplugin-settings-display-page.php:216
+msgid "Save"
+msgstr "Spara"
+
+#: admin/setup/wdplugin-settings-display-page.php:226
+msgid ""
+"Sign up for a free account on <a href='https://whydonate.com/' style='text-"
+"decoration:none' target='blank'>whydonate.com</a>. Navigate to <a "
+"href='https://whydonate.com/' style='text-decoration:none' target='blank'>"
+"whydonate.com</a> and access the API Key from the side menu of your profile. "
+"Generate an API Key and copy-paste it into the designated section at the "
+"bottom of this page."
+msgstr ""
+"Registrera dig för ett gratis konto på <a href='https://whydonate.com/sv/' "
+"style='text-decoration:none' target='blank'>whydonate.com</a>. Navigera till "
+"<a href='https://whydonate.com/sv/' style='text-decoration:none' "
+"target='blank'>whydonate.com</a> och få tillgång till API-nyckeln från "
+"sidomenyn i din profil. Skapa en API-nyckel och kopiera och klistra in den i "
+"den angivna sektionen längst ner på den här sidan."
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "Whydonate"
+msgstr "WhyDonate"
+
+#. Description of the plugin
+msgid ""
+"Donatie button voor je eigen website. Zamel geld in via iDeal, Creditcard, "
+"PayPal, VISA, Sofort en Bancontact. Binnen een paar minuten opgezet en "
+"veilig!"
+msgstr ""
+"Donationsknapp för din egen hemsida. Samla in pengar via iDeal, Kreditkort, "
+"PayPal, VISA, Sofort och Bancontact. Ställ in på några minuter och säkert!"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-whydonate/"
+msgstr "https://wordpress.org/plugins/wp-whydonate/"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/whydonate/"
+msgstr "https://profiles.wordpress.org/whydonate/"
